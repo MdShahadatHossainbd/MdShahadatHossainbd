@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Vuejs Web Frontend Framework**
 
-- 👯 I’m looking to collaborate on [Web base Face Login](https://github.com/MdShahadatHossainbd
-Face-recognition-registration-and-login-system-OpenCv-Django)
+- 👯 I’m looking to collaborate on [Backed Developer](https://github.com/MdShahadatHossainbd/Django-project)
 
 - 📝 I regularly write articles on [Website](https://mdshahadat.com/)
 
